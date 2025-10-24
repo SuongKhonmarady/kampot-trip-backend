@@ -6,7 +6,7 @@ return [
 
     'allowed_methods' => ['*'],
 
-    'allowed_origins' => ['http://localhost:5173', 'http://localhost:3000', 'https://derleng.tech', 'https://kampot-trip-front.vercel.app'],
+    'allowed_origins' => ['http://localhost:5173', 'http://localhost:3000', 'https://tosderleng.tech', 'https://kampot-trip-front.vercel.app'],
 
     'allowed_origins_patterns' => [],
 
